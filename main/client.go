@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	data "github.com/manureddy7143/sql/project/protos"
+	data "github.com/manureddy7143/project/protos"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

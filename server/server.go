@@ -7,7 +7,7 @@ import (
 	"time"
     _ "github.com/go-sql-driver/mysql"
 	"github.com/hashicorp/go-hclog"
-	protos "github.com/manureddy7143/sql/project/protos"
+	protos "github.com/manureddy7143/project/protos"
 )
 
 // Course is

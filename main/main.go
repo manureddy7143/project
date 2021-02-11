@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/hashicorp/go-hclog"
-	protos "github.com/manureddy7143/sql/project/protos"
-	"github.com/manureddy7143/sql/project/server"
+	protos "github.com/manureddy7143/project/protos"
+	"github.com/manureddy7143/project/server"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	
